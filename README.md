@@ -8,3 +8,4 @@ App desarrollada con react consumiendo el API : https://ipinfo.io/ y https://www
 - En la carpeta del repositorio usar el comando: **npm install** o **npm i**
 - Ejecutarlo usando el comando: **npm start**
 
+![Capture](https://user-images.githubusercontent.com/39103310/158036343-4f2b9de6-34e9-4705-8abf-d7b5863152f3.PNG)
